@@ -86,6 +86,3 @@ python3 -m garak --target_type groq \
   --probes promptinject,dan \
   --report_prefix my-first-scan
 ```
-
-Full raw report saved to:  
-`/Users/eashwarramachandran/.local/share/garak/garak_runs/my-first-scan.report.jsonl`
